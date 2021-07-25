@@ -1,0 +1,53 @@
+.amar-bg-info {
+  background-color: #fceae8;
+}
+.slider-margin {
+  margin-top: 120px;
+  margin-bottom: 100px;
+}
+.category-border {
+  border-radius: 10px;
+}
+.col-lg-7 h1 {
+  font-size: 60px;
+  padding-left: 50px;
+}
+.col-lg-7 p {
+  font-size: 20px;
+  padding-left: 50px;
+}
+.col-lg-7 button {
+  margin-left: 50px;
+}
+
+.category h1 {
+  font-size: 50px;
+}
+.category img {
+  width: 100px;
+}
+
+.category-watch {
+  background-color: #ffa500;
+  color: white;
+}
+.category-bag {
+  background-color: #da70d6;
+  color: white;
+}
+.category-shoes {
+  background-color: #0000ff;
+  color: white;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+.product {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
